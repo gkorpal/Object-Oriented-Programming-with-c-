@@ -1,4 +1,4 @@
-My C++ practice codes from the Object Oriented Programming course I took during Spring 2015 (undergraduate).
+My C++ practice codes from the Object Oriented Programming course I took during Spring 2015 (undergraduate @ NISER).
 
 The textbook (assumes some basic understanding of C which I didn't have at the time of reading):
 
