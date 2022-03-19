@@ -1,4 +1,4 @@
-My C++ practice codes from the M142 course (Object Oriented Programming with C++) taught by Prof. Ashwin Pande during Spring 2015 (undergraduate @ NISER).
+My C++ practice codes from the M142 course (Object Oriented Programming with C++) taught by Ashwin Pande during Spring 2015 (undergraduate @ NISER).
 
 The textbook (assumes some basic understanding of C which I didn't have at the time of reading):
 
